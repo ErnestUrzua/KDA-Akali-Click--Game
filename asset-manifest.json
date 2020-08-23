@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/KDA-Akali-Click--Game/static/css/main.72bcd119.chunk.css",
-    "main.js": "/KDA-Akali-Click--Game/static/js/main.223aa8ec.chunk.js",
-    "main.js.map": "/KDA-Akali-Click--Game/static/js/main.223aa8ec.chunk.js.map",
-    "runtime-main.js": "/KDA-Akali-Click--Game/static/js/runtime-main.4564db4d.js",
-    "runtime-main.js.map": "/KDA-Akali-Click--Game/static/js/runtime-main.4564db4d.js.map",
-    "static/js/2.88df24ad.chunk.js": "/KDA-Akali-Click--Game/static/js/2.88df24ad.chunk.js",
-    "static/js/2.88df24ad.chunk.js.map": "/KDA-Akali-Click--Game/static/js/2.88df24ad.chunk.js.map",
-    "index.html": "/KDA-Akali-Click--Game/index.html",
-    "precache-manifest.f77debce3bd7766fb906f8d4ba0c8572.js": "/KDA-Akali-Click--Game/precache-manifest.f77debce3bd7766fb906f8d4ba0c8572.js",
-    "service-worker.js": "/KDA-Akali-Click--Game/service-worker.js",
-    "static/css/main.72bcd119.chunk.css.map": "/KDA-Akali-Click--Game/static/css/main.72bcd119.chunk.css.map",
-    "static/js/2.88df24ad.chunk.js.LICENSE.txt": "/KDA-Akali-Click--Game/static/js/2.88df24ad.chunk.js.LICENSE.txt"
+    "main.css": "/kda-akali-click-game/static/css/main.72bcd119.chunk.css",
+    "main.js": "/kda-akali-click-game/static/js/main.0080517e.chunk.js",
+    "main.js.map": "/kda-akali-click-game/static/js/main.0080517e.chunk.js.map",
+    "runtime-main.js": "/kda-akali-click-game/static/js/runtime-main.c0bd61f1.js",
+    "runtime-main.js.map": "/kda-akali-click-game/static/js/runtime-main.c0bd61f1.js.map",
+    "static/js/2.88df24ad.chunk.js": "/kda-akali-click-game/static/js/2.88df24ad.chunk.js",
+    "static/js/2.88df24ad.chunk.js.map": "/kda-akali-click-game/static/js/2.88df24ad.chunk.js.map",
+    "index.html": "/kda-akali-click-game/index.html",
+    "precache-manifest.cf91c404a99cc244ff1a5e7936b1ffc4.js": "/kda-akali-click-game/precache-manifest.cf91c404a99cc244ff1a5e7936b1ffc4.js",
+    "service-worker.js": "/kda-akali-click-game/service-worker.js",
+    "static/css/main.72bcd119.chunk.css.map": "/kda-akali-click-game/static/css/main.72bcd119.chunk.css.map",
+    "static/js/2.88df24ad.chunk.js.LICENSE.txt": "/kda-akali-click-game/static/js/2.88df24ad.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.4564db4d.js",
+    "static/js/runtime-main.c0bd61f1.js",
     "static/js/2.88df24ad.chunk.js",
     "static/css/main.72bcd119.chunk.css",
-    "static/js/main.223aa8ec.chunk.js"
+    "static/js/main.0080517e.chunk.js"
   ]
 }
