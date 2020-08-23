@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/kda-akali-click-game/static/css/main.72bcd119.chunk.css",
-    "main.js": "/kda-akali-click-game/static/js/main.0080517e.chunk.js",
-    "main.js.map": "/kda-akali-click-game/static/js/main.0080517e.chunk.js.map",
-    "runtime-main.js": "/kda-akali-click-game/static/js/runtime-main.c0bd61f1.js",
-    "runtime-main.js.map": "/kda-akali-click-game/static/js/runtime-main.c0bd61f1.js.map",
-    "static/js/2.88df24ad.chunk.js": "/kda-akali-click-game/static/js/2.88df24ad.chunk.js",
-    "static/js/2.88df24ad.chunk.js.map": "/kda-akali-click-game/static/js/2.88df24ad.chunk.js.map",
-    "index.html": "/kda-akali-click-game/index.html",
-    "precache-manifest.cf91c404a99cc244ff1a5e7936b1ffc4.js": "/kda-akali-click-game/precache-manifest.cf91c404a99cc244ff1a5e7936b1ffc4.js",
-    "service-worker.js": "/kda-akali-click-game/service-worker.js",
-    "static/css/main.72bcd119.chunk.css.map": "/kda-akali-click-game/static/css/main.72bcd119.chunk.css.map",
-    "static/js/2.88df24ad.chunk.js.LICENSE.txt": "/kda-akali-click-game/static/js/2.88df24ad.chunk.js.LICENSE.txt"
+    "main.css": "./static/css/main.72bcd119.chunk.css",
+    "main.js": "./static/js/main.9b32f44b.chunk.js",
+    "main.js.map": "./static/js/main.9b32f44b.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.673723db.js",
+    "runtime-main.js.map": "./static/js/runtime-main.673723db.js.map",
+    "static/js/2.88df24ad.chunk.js": "./static/js/2.88df24ad.chunk.js",
+    "static/js/2.88df24ad.chunk.js.map": "./static/js/2.88df24ad.chunk.js.map",
+    "index.html": "./index.html",
+    "precache-manifest.4c8d8910ef3598b5815efcc3371bdf38.js": "./precache-manifest.4c8d8910ef3598b5815efcc3371bdf38.js",
+    "service-worker.js": "./service-worker.js",
+    "static/css/main.72bcd119.chunk.css.map": "./static/css/main.72bcd119.chunk.css.map",
+    "static/js/2.88df24ad.chunk.js.LICENSE.txt": "./static/js/2.88df24ad.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.c0bd61f1.js",
+    "static/js/runtime-main.673723db.js",
     "static/js/2.88df24ad.chunk.js",
     "static/css/main.72bcd119.chunk.css",
-    "static/js/main.0080517e.chunk.js"
+    "static/js/main.9b32f44b.chunk.js"
   ]
 }
