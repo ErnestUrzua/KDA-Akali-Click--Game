@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "be9c458485dd88d37605a0865f551c92",
+    "revision": "04b943fa56d57b5c32a0f65543415149",
     "url": "/kda-akali-click-game/index.html"
   },
   {
-    "revision": "4090856f5a6cf86793a6",
+    "revision": "40443df586e66eeece15",
     "url": "/kda-akali-click-game/static/css/main.72bcd119.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/kda-akali-click-game/static/js/2.88df24ad.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "4090856f5a6cf86793a6",
-    "url": "/kda-akali-click-game/static/js/main.0080517e.chunk.js"
+    "revision": "40443df586e66eeece15",
+    "url": "/kda-akali-click-game/static/js/main.98fab668.chunk.js"
   },
   {
     "revision": "5b70a6dcae1607dcc44a",
