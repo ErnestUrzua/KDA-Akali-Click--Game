@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/kda-akali-click-game/static/css/main.72bcd119.chunk.css",
-    "main.js": "/kda-akali-click-game/static/js/main.b7133f2d.chunk.js",
-    "main.js.map": "/kda-akali-click-game/static/js/main.b7133f2d.chunk.js.map",
+    "main.js": "/kda-akali-click-game/static/js/main.98fab668.chunk.js",
+    "main.js.map": "/kda-akali-click-game/static/js/main.98fab668.chunk.js.map",
     "runtime-main.js": "/kda-akali-click-game/static/js/runtime-main.c0bd61f1.js",
     "runtime-main.js.map": "/kda-akali-click-game/static/js/runtime-main.c0bd61f1.js.map",
     "static/js/2.88df24ad.chunk.js": "/kda-akali-click-game/static/js/2.88df24ad.chunk.js",
     "static/js/2.88df24ad.chunk.js.map": "/kda-akali-click-game/static/js/2.88df24ad.chunk.js.map",
     "index.html": "/kda-akali-click-game/index.html",
-    "precache-manifest.3e9b4a03aeb19d32c11f2474b36f9495.js": "/kda-akali-click-game/precache-manifest.3e9b4a03aeb19d32c11f2474b36f9495.js",
+    "precache-manifest.50730319be663dfb4d31333645dc3626.js": "/kda-akali-click-game/precache-manifest.50730319be663dfb4d31333645dc3626.js",
     "service-worker.js": "/kda-akali-click-game/service-worker.js",
     "static/css/main.72bcd119.chunk.css.map": "/kda-akali-click-game/static/css/main.72bcd119.chunk.css.map",
     "static/js/2.88df24ad.chunk.js.LICENSE.txt": "/kda-akali-click-game/static/js/2.88df24ad.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.c0bd61f1.js",
     "static/js/2.88df24ad.chunk.js",
     "static/css/main.72bcd119.chunk.css",
-    "static/js/main.b7133f2d.chunk.js"
+    "static/js/main.98fab668.chunk.js"
   ]
 }

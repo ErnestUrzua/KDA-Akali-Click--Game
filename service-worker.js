@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/kda-akali-click-game/precache-manifest.3e9b4a03aeb19d32c11f2474b36f9495.js"
+  "/kda-akali-click-game/precache-manifest.50730319be663dfb4d31333645dc3626.js"
 );
 
 self.addEventListener('message', (event) => {
