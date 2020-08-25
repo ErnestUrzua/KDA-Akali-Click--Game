@@ -64,5 +64,11 @@
         "image": "./img/kda-Akali-11.jpg",
         "name": "Akali-11",
         "clicked": false
+    },
+    {
+        "id": 12,
+        "image": "./img/kda-Akali-12.jpg",
+        "name": "Akali-12",
+        "clicked": false
     }
 ]
